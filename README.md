@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-Application URL:
+Application URL: https://vineysha.github.io/weather-dashboard/
 
 Upon launching the application, the user will see a developed but empty weather dashboard.
 
