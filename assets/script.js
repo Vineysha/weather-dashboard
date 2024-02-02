@@ -84,7 +84,7 @@ function currentWeather(city){
             else {
                 if(find(city)>0){
                     sCity.push(city.toUpperCase());
-                    localStorage.setItem("city-name",JSON.stringify(sCity));
+                    localStorage.setItem("cityname",JSON.stringify(sCity));
                     addToList(city);
                 }
             }
